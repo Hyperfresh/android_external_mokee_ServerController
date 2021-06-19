@@ -1,3 +1,7 @@
+No, I can't rememeber what this fork was for either. Your guess is as good as mine. *[Repository archived]*
+
+---
+
 # 如何贡献机型下载界面数据
  ——————————————————
 
